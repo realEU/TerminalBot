@@ -39,7 +39,7 @@ CHANGE_DIRECTORY_CTD = Config.CHANGE_DIRECTORY_CTD
 DELAY_BETWEEN_EDITS = Config.DELAY_BETWEEN_EDITS
 START_CMD_TRIGGER = Config.START_CMD_TRIGGER
 
-HELP_STICKER = "CAADBAADKxkAAtqjlSzSqAcknF0rvwI"
+HELP_STICKER = "BQADBAADZwsAAqwpMFMEuOzxVMOaAgI"
 PROCESS_RUNNING = "processing ..."
 TERMINATE_HELP_GNIRTS = "reply to a <u>command reply</u> to terminate 😡😳😳 it"
 SIG_KILL_HELP_GNIRTS = "reply to a <u>command reply</u> to kill 😡 it"
